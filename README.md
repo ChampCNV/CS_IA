@@ -1,36 +1,16 @@
-<div align="left">
-            <a href="https://paypal.me/piyushsati311999" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/piyushsati" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a>
-</div>  
 <br/>  
 
 
 
-# Zinger
+# Snac
 
-Food ordering website for Zinger restaurant built using Next.js, TailwindCSS, Redux, Mongodb
-
-![Logo](https://zinger.vercel.app/_next/image?url=%2Fimg%2FZinger.svg&w=128&q=75)
-
-<img src="https://zinger.vercel.app/img/favicons/apple-touch-icon.png" height="100" alt="" />
+Food ordering website for School Food Court built using Next.js, TailwindCSS, Redux, Mongodb
 
 
-## Demo
-
-https://zinger.vercel.app
 
 
-## Screenshots
+
+## Source Code Website Screenshots
 
 ![App Screenshot](https://i.ibb.co/8x3ZGnG/zinger.gif)
 
@@ -137,19 +117,8 @@ Test Stripe payment gateway with these card details.
 ```
 
 See details: https://stripe.com/docs/testing
-  
-
-## Contributing
-
-Contributions are always welcome!
-
-  
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 <br/>
 <br/>
 
-<p align="center">If you liked the repository, show your  ❤️  by starring and forking it.</p>
   
